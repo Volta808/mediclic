@@ -28,8 +28,8 @@
         <div class="container">
           <div class="row mb-5">
             <div class="col-md-3">
-              <a href="index.jsp" class="footer-site-logo agrandissement">MediClic</a>
-              <p>Conslutez nos professionels de santé médical dés maintenant ! </p>
+              <a href="index.jsp" class="footer-site-logo agrandissement">Volta</a>
+              <p>Créateur de la religion de la sainte Judy </p>
             </div>
             <div class="col-md-2 ml-auto">
               <h3>Informations</h3>
@@ -37,7 +37,7 @@
                 <li><a href="#">(514) 876-4134</a></li>
                 <li><a href="https://www.google.com/maps/place/902+Bd+Saint-Michel,+Montr%C3%A9al,+QC/@45.5627554,-73.6087254,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91ecc508f8a95:0xa09aaa7b88ba9d66!8m2!3d45.5627517!4d-73.6065367">905 Blvrd St-Michel</a></li>
                 <li><a href="https://www.google.com/maps/place/902+Bd+Saint-Michel,+Montr%C3%A9al,+QC/@45.5627554,-73.6087254,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc91ecc508f8a95:0xa09aaa7b88ba9d66!8m2!3d45.5627517!4d-73.6065367">H4R-9X2</a></li>
-                <li><a href="contact.jsp">mediclic@gmail.com</a></li>
+                <li><a href="contact.jsp">Volta@gmail.com</a></li>
 
 
               </ul>

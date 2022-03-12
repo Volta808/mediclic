@@ -19,15 +19,15 @@
 		<div class="container">
 			<div class="row justify-content-between">
 				<div class="col">
-					<a class="navbar-brand agrandissement" href="index.jsp">Medi <span>Clic</span></a>
+					<a class="navbar-brand agrandissement" href="index.jsp">Volta</a>
 				</div>
 				<div class="col d-flex justify-content-end">
 					<div class="social-media">
 		    		<p class="mb-0 d-flex">
-		    			<a href="https://facebook.com" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"><i class="sr-only">Facebook</i></span></a>
-		    			<a href="https://twitter.com" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"><i class="sr-only">Twitter</i></span></a>
-		    			<a href="https://instagram.com" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"><i class="sr-only">Instagram</i></span></a>
-		    			<a href="https://dribble.com" class="d-flex align-items-center justify-content-center"><span class="fa fa-dribbble"><i class="sr-only">Dribbble</i></span></a>
+		    			<a href="https://facebook.com" class="d-flex align-items-center justify-content-center"><span class="fa fa-youtube"><i class="sr-only">Youtube</i></span></a>
+		    			<a href="https://twitter.com" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitch"><i class="sr-only">Twitch</i></span></a>
+		    			<a href="https://www.instagram.com/katia_k98/?hl=fr" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"><i class="sr-only">Instagram</i></span></a>
+		    			<a href="https://dribble.com" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"><i class="sr-only">Twitter</i></span></a>
 		    		</p>
 	        </div>
 				</div>
